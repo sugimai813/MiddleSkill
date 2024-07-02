@@ -33,10 +33,13 @@ public class test1 {
             }
         }
         
-        for (int i = 0; i < 6; i++) {
-            if(i != 4) {
-            strArray4.add(strArray3.get(i));
-            }
+        for (int j = 0; j < strArray3.size(); j++) {
+           String x = strArray3.get(j);
+           if((x.equals("k") && (strArray4.size() < 3)) ||
+              (x.equals("a") && (strArray4.size() < 4)) ||
+              (x.equals("o") && (strArray4.size() < 5))) {
+               strArray4.add(x);
+           }
         }
 
         System.out.println(strArray4);
