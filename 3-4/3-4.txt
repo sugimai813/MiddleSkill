@@ -11,4 +11,4 @@ service
 先にインターフェースを作ること
 
 ④何らかのロジカル的な処理を行うプログラミングをしようとする時、コーディングするのに正しいのはどれになりますか？(controller、service、view、seviceimpl、entity、dao、daoimpl)
-service,serviceimpl
+service
