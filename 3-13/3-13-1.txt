@@ -1,0 +1,17 @@
+
+□検索条件  「ファイル検索」
+検索対象       *.java
+フォルダー       C:\users\maaai\Downloads\gs-spring-boot-main
+除外ファイル   *.msi;*.exe;*.obj;*.pdb;*.ilk;*.res;*.pch;*.iobj;*.ipdb
+除外フォルダー   .git;.svn;.vs
+    (サブフォルダーも検索)
+    (文字コードセットの自動判別)
+
+
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\main\java\com\example\springboot\Application.java  [UTF-8]
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\main\java\com\example\springboot\HelloController.java  [UTF-8]
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\test\java\com\example\springboot\HelloControllerITest.java  [UTF-8]
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\test\java\com\example\springboot\HelloControllerTest.java  [UTF-8]
+C:\users\maaai\Downloads\gs-spring-boot-main\initial\src\main\java\com\example\springboot\Application.java  [UTF-8]
+C:\users\maaai\Downloads\gs-spring-boot-main\initial\src\main\java\com\example\springboot\HelloController.java  [UTF-8]
+6 個が検索されました。

@@ -1,0 +1,15 @@
+
+□検索条件  "Exception"
+検索対象       *.java
+フォルダー       C:\users\maaai\Downloads\gs-spring-boot-main
+除外ファイル   *.msi;*.exe;*.obj;*.pdb;*.ilk;*.res;*.pch;*.iobj;*.ipdb
+除外フォルダー   .git;.svn;.vs
+    (サブフォルダーも検索)
+    (英大文字小文字を区別しない)
+    (文字コードセットの自動判別)
+    (一致した行を出力)
+
+
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\test\java\com\example\springboot\HelloControllerITest.java(19,35)  [UTF-8]:     public void getHello() throws Exception {
+C:\users\maaai\Downloads\gs-spring-boot-main\complete\src\test\java\com\example\springboot\HelloControllerTest.java(24,32)  [UTF-8]: 	public void getHello() throws Exception {
+2 個が検索されました。
