@@ -1,0 +1,26 @@
+⚫️課題3-11
+
+
+①application.propertiesとは何ですか？
+環境独自の設定を行うためのファイル
+
+②logging.file.pathとはどんなプロパティですか？
+ログファイルの場所
+
+③spring.messages.encodingとはどんなプロパティですか？
+メッセージバンドルのエンコード
+
+④エンコードとは何ですか？
+符号化。アナログ信号やデジタルデータといった情報を、特定の方法で復元可能な別の状態に変換する処理
+
+⑤spring.datasource.urlとはどんなプロパティですか？
+データベースのJDBC URL
+
+⑥spring.transaction.rollback-on-commit-failureとはどんなプロパティですか？
+コミットの失敗時にロールバックするかどうか
+
+⑦spring.jta.atomikos.connectionfactory.max-pool-sizeとはどんなプロパティですか？
+トランザクション管理を行う際に使用するAtomikos接続ファクトリーの最大プールサイズを設定する
+
+⑧コネクションプーリングとは何ですか？
+データベースに接続する場合に、要求されるたびにコネクションを作成するのでなく、コネクションを保持して再利用するという機能
